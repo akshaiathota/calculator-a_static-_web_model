@@ -1,0 +1,75 @@
+.flex_container{
+    margin-left: 33%;
+    margin-top: 10%;
+    display: flex;
+    height: 400px;
+    width: 400px;
+    background-color:black;
+    flex-wrap: wrap;
+    color: white;
+}
+
+#display{
+    height: 25%;
+    width:600px;
+    background-color:blanchedalmond;
+    color:black;
+}
+.c1 div{
+    width: 100px;
+    text-align: center;
+    font-size: xx-large;
+    border: 2px solid red;
+}
+.c2 div{
+    width: 100px;
+    text-align: center;
+    font-size: xx-large;
+    border: 2px solid red;
+}
+.c3 div{
+    width: 100px;
+    text-align: center;
+    font-size: xx-large;
+    border: 2px solid red;
+}
+.c4 div{
+    width: 100px;
+    text-align: center;
+    font-size: xx-large;
+    border: 2px solid red;
+}
+.c5 div{
+    width: 100px;
+    text-align: center;
+    font-size: xx-large;
+    border: 2px solid red;
+}
+.c1{
+    height: 15%;
+    width:100%;
+    display: flex;
+}
+.c2{
+    height: 15%;
+    width:100%;
+    display: flex;
+}
+
+.c3{
+    height: 15%;
+    width:100%;
+    display: flex;
+}
+
+.c4{
+    height: 15%;
+    width:100%;
+    display: flex;
+}
+
+.c5{
+    height: 15%;
+    width:100%;
+    display: flex;
+}
